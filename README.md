@@ -14,13 +14,13 @@
 <br>
 
 ###1.Quick Start
->![image](https://raw.githubusercontent.com/frendyxzc/HotEventAnalysis/master/screenshot/20161203195514.png)<br>
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203195514.png)<br>
 
 ###2.单个文本的四组特征标签
->![image](https://raw.githubusercontent.com/frendyxzc/HotEventAnalysis/master/screenshot/20161203200223.png)<br>
->![image](https://raw.githubusercontent.com/frendyxzc/HotEventAnalysis/master/screenshot/20161203200259.png)<br>
->![image](https://raw.githubusercontent.com/frendyxzc/HotEventAnalysis/master/screenshot/20161203200330.png)<br>
->![image](https://raw.githubusercontent.com/frendyxzc/HotEventAnalysis/master/screenshot/20161203200353.png)<br>
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200223.png)<br>
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200259.png)<br>
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200330.png)<br>
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200353.png)<br>
 <br>
 
 # Todo List:
