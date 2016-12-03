@@ -13,10 +13,14 @@
 >描述传播内容的倾向性或特征、从信息内容推测信息传播者的态度、研究媒介内容的真实性、从媒介内容推论传播效果、建立媒介效果研究的起点等。
 <br>
 
-###1.Quick Start
+###1.原始文章
+>./data/2869885.html
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203202855.png)<br>
+
+###2.Quick Start
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203195514.png)<br>
 
-###2.单个文本的四组特征标签
+###3.单个文本的四组特征标签
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200223.png)<br>
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200259.png)<br>
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200330.png)<br>
