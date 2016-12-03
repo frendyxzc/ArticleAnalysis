@@ -13,7 +13,7 @@
 >描述传播内容的倾向性或特征、从信息内容推测信息传播者的态度、研究媒介内容的真实性、从媒介内容推论传播效果、建立媒介效果研究的起点等。
 <br>
 
-###1.原始文章(用于单个文本分析的示例)
+###1.原始文章（用于单个文本分析的示例）
 >./data/2869885.html，神级逆袭！女排3-1塞尔维亚 时隔12年奥运再登顶
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203202855.png)<br>
 
@@ -25,9 +25,14 @@
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200259.png)<br>
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200330.png)<br>
 >![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203200353.png)<br>
+
+###4.构建机器学习神经元（待实现）
+>![image](https://raw.githubusercontent.com/frendyxzc/ArticleAnalysis/master/screenshot/20161203215048.png)<br>
 <br>
 
 # Todo List:
 > ✔ 提取文本<br>
 > ✔ 提取单个文本四组特征标签<br>
 > ✎ 构建四个神经元做机器学习<br>
+> ✎ 获取数据做训练，实现文本分类<br>
+> ✎ 获取数据做训练，实现文本情感倾向分析<br>
